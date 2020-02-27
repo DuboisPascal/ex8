@@ -1,0 +1,25 @@
+/*
+ Theme Name:   Astral Enfant
+ Description:  Enfant Astral
+ Author:       Pascal Dubois
+ Template:     astral
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astralenfant
+*/
+
+body{
+    background-color: rgb(80, 80, 80); 
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:visited{
+    color: rgb(0, 255, 34)
+}
